@@ -1,0 +1,8 @@
+{
+  "name": "AssetGuard",
+  "description": "A comprehensive asset management system bridging mobile scanning and desktop administration. Features QR scanning simulation, electronic signatures for borrowing/returning, and AI-powered usage analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
